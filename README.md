@@ -12,7 +12,7 @@ A flexible TODO list with the following features:
 
 ![Screenshot](/assets/screenshot.png)
 
-[Open](https://mstijak.github.io/tdo/)
+[Open](https://merijnslagter.github.io/todoonline/)
 
 Also available as a [Chrome extension](https://chrome.google.com/webstore/detail/tdo/aaaabkbhklmpmlnjnbicdahijpkgnkfk).
 
